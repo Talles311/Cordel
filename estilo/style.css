@@ -9,8 +9,6 @@
     --fonte2: 'Passion One', cursive;
     --fonte3: 'Sriracha', cursive;
 
-
-
 }
 
 
@@ -98,7 +96,6 @@ section.imagem > p  {
          
 section.imagem#carta > p {
                   text-shadow: 1px 1px 10px black;
-
 
 }
 
